@@ -7,7 +7,7 @@ spring:
   application:
     name: employee-provider
 server:
-  port: 8003
+  port: 8001
 eureka:
   client:
     service-url:
